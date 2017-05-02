@@ -1,2 +1,6 @@
-# newsletter_generatorv2
-Improved Version of the newsletter which spits out the complete code
+# README
+
+Fill out a simple form with all the details for the newsletter.
+
+Uses a simple PHP script to spit out the HTML for the newsletter which can be sent using an email blast
+
